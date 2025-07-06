@@ -1,5 +1,5 @@
 import java.util.ArrayList; // Import library ArrayList
-import java.util.Collections; //Import library untuk sorting
+import java.util.Collections; // Import library untuk sorting
 
 // Class untuk semua operasi yang menggunakan ArrayList
 public class ArrayListOperations {
